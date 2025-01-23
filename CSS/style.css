@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+    color:black
+}
+h1 { 
+    color:rgb(0, 0, 0)
+}
+button {
+    background-color: rgb(240, 11, 240);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+header{
+    background-color: black;
+    color: white;
+}   
+footer {
+    background-color: black;
+    color: white;
+}
+strong {
+    color: red
+}
